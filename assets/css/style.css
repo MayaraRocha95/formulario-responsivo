@@ -169,7 +169,7 @@ body{
   }
   .input-group {
     flex-direction: column;
-    overflow:scroll;
+    overflow-y:scroll;
     flex-wrap: nowrap;
     max-height: 10rem;
     padding-right: 5rem;
